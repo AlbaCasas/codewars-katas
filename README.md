@@ -10,6 +10,8 @@
 
 ## Table of Contents
 
+[kyu8 - return negative](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript)
+
 ## About The Project
 
 Solving codewars katas to hone in my javascript skills
