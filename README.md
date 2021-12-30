@@ -15,7 +15,7 @@
 - [kyu8 - Grasshopper Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 - [kyu8 - Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 - [kyu8 - Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
-- [kyu8 - Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
+- [kyu7 - Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
 
 ## About The Project
 
