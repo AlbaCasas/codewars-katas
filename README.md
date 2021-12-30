@@ -12,6 +12,7 @@
 
 - [kyu8 - Return Negative](https://www.codewars.com/kata/55685cd7ad70877c23000102)
 - [kyu8 - Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
+- [kyu8 - Grasshopper Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 
 ## About The Project
 
