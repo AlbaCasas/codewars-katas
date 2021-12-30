@@ -14,6 +14,7 @@
 - [kyu8 - Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018)
 - [kyu8 - Grasshopper Summation](https://www.codewars.com/kata/55d24f55d7dd296eb9000030)
 - [kyu8 - Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+- [kyu8 - Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 
 ## About The Project
 
