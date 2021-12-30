@@ -1,5 +1,5 @@
 function makeNegative(num) {
-  return num * -1;
+  return -Math.abs(num);
 }
 
 console.log(makeNegative(-5));
