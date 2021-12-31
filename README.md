@@ -19,6 +19,7 @@
 - [kyu7 - Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
 - [kyu7 - Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
 - [kyu7 - Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+- [kyu7 - Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 
 ## About The Project
 
