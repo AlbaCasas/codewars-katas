@@ -22,6 +22,7 @@
 - [kyu7 - Printer Errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 - [kyu7 - Increment](https://www.codewars.com/kata/590e03aef55cab099a0002e8)
 - [kyu7 - Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
+- [kyu7 - Narcissistic Numbers](https://www.codewars.com/kata/56b22765e1007b79f2000079)
 
 ## About The Project
 
