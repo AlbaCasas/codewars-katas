@@ -17,6 +17,7 @@
 - [kyu8 - Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 - [kyu8 - A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
 - [kyu7 - Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
+- [kyu7 - Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76/train/javascript)
 
 ## About The Project
 
