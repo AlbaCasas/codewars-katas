@@ -23,6 +23,7 @@
 - [kyu7 - Increment](https://www.codewars.com/kata/590e03aef55cab099a0002e8)
 - [kyu7 - Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [kyu7 - Narcissistic Numbers](https://www.codewars.com/kata/56b22765e1007b79f2000079)
+- [kyu7 - Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 - [kyu5 - The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 
 ## About The Project
