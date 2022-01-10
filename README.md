@@ -16,6 +16,7 @@
 - [kyu8 - Convert number to reversed array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
 - [kyu8 - Calculate Average](https://www.codewars.com/kata/57a2013acf1fa5bfc4000921)
 - [kyu8 - A Needle in the Haystack](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+- [kyu8 - Fake binary](https://www.codewars.com/kata/57eae65a4321032ce000002d)
 - [kyu7 - Friend or Foe?](https://www.codewars.com/kata/55b42574ff091733d900002f)
 - [kyu7 - Spoonerize Me](https://www.codewars.com/kata/56b8903933dbe5831e000c76)
 - [kyu7 - Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
