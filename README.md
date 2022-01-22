@@ -28,6 +28,7 @@
 - [kyu7 - Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 - [kyu7 - Narcissistic Numbers](https://www.codewars.com/kata/56b22765e1007b79f2000079)
 - [kyu7 - Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
+- [kyu7 - Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - [kyu7 - Difference between years](https://www.codewars.com/kata/588f5a38ec641b411200005b)
 
 ### Kyu 5
