@@ -33,6 +33,7 @@
 - [kyu7 - Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 - [kyu7 - Difference between years](https://www.codewars.com/kata/588f5a38ec641b411200005b)
 - [kyu7 - I'm everywhere!](https://www.codewars.com/kata/6097a9f20d32c2000d0bdb98)
+- [kyu7 - Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001)
 
 ### Kyu 5
 
