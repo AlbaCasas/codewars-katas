@@ -36,6 +36,7 @@
 - [kyu7 - Array Filter](https://www.codewars.com/kata/514a6336889283a3d2000001)
 - [kyu7 - Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [kyu7 - Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001/solutions/javascript)
+- [kyu7 - Odd or Even](https://www.codewars.com/kata/5949481f86420f59480000e7/train/javascript)
 
 ### Kyu 5
 
